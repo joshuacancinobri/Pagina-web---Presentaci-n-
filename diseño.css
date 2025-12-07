@@ -1,0 +1,21 @@
+body {
+    background-color: #c4c4c4;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blue;
+}
+#foto-principal {
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.texto-destacado {
+    font-weight: bold;
+    font-size: 18px;
+    color: #505050;
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+}
